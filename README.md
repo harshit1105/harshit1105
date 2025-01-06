@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sanchania </h1>
-<h3 align="center">A passionate Cloud/SRE/DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
+<h3 align="center">A passionate Cloud/SRE/DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1105&theme=gotham" alt="harshit1105" /></p>
 
