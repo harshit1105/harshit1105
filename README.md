@@ -35,8 +35,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshit1105&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+  
+  </div>
+
 <!--
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/ankitthedevops/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/harshit1105/count.svg)
 -->
